@@ -56,4 +56,6 @@ void loop() { // run over and over
 
 Connect from Mac/PC/Linux using 1200 baud, 8N1
 
-```ls /dev/tty.*``` to find your serial connection followed by eg. ```screen /dev/tty.usbserial-1130 1200```
+```ls /dev/tty.*``` to find your serial connection followed by eg. ```screen /dev/tty.usbserial-1130 1200``` (Ctrl-A followed by Ctrl-\ to quit out)
+
+
